@@ -1,32 +1,42 @@
-# 📦 Flutter Sipariş Takip Uygulaması (v1)
+# 📦 Flutter Sipariş Takip Uygulaması
 
-Gerçek iş senaryolarına uygun **gradientsiz**, modern Material 3 sipariş takip uygulaması.  
-Durum sekmeleri + sayaçlar, tarih aralığı filtresi, sıralama seçenekleri, arama, detay sayfası ve **kalıcı kullanıcı tercihleri** içerir.
+Gradient kullanmadan modern **Material 3** arayüzle geliştirilmiş, gerçek iş senaryolarına uygun **Sipariş Takip** uygulaması.  
+Durum sekmeleri (sayaçlı), **tarih aralığı** filtresi, **sıralama**, **arama**, detay sayfasında **kalemler & adres**, **kalıcı kullanıcı tercihleri** ve **açık/koyu tema** içerir.
 
-## ✨ Öne Çıkanlar
-- Durum sekmeleri **(sayaçlı)**: Tümü, Yeni, Hazırlanıyor, Kargoda, İptal/Değişim/İade, İptal
-- **Tarih aralığı** filtresi (DateRangePicker)
-- **Sıralama**: Tarih ↑/↓, Tutar ↑/↓
-- **Arama**: Müşteri adı / Sipariş No
-- **Detay**: Kalemler, adres, özetler
-- **Kalıcı ayarlar**: Son filtre/sıralama/tema `shared_preferences` ile korunur
-- **Karanlık/Aydınlık tema** geçişi
-- **Responsive Material 3 UI** (Android, iOS, Web, Windows)
+[![CI](https://github.com/<username>/<repo>/actions/workflows/flutter-ci.yml/badge.svg)](https://github.com/<username>/<repo>/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-informational.svg)](LICENSE)
+![Flutter](https://img.shields.io/badge/Flutter-Material%203-blue)
 
-## 🚀 Çalıştırma
+> **Canlı Demo (isteğe bağlı):** `https://<username>.github.io/<repo>/`  
+> (Repo’da GitHub Pages’i Actions ile etkinleştirirsen otomatik yayınlanır.)
+
+---
+
+## ✨ Özellikler
+- **Durum sekmeleri** (sayaçlı): Tümü / Yeni / Hazırlanıyor / Kargoda / İptal-Değişim-İade / İptal  
+- **Tarih aralığı filtresi** (DateRangePicker) + **arama** (müşteri adı / sipariş no)  
+- **Sıralama**: Tarih ↑↓, Tutar ↑↓  
+- **Detay sayfası**: ürün kalemleri, satır tutarları, teslimat adresi  
+- **Kalıcı tercihler**: tarih filtresi & sıralama `shared_preferences` ile saklanır  
+- **Tema**: Açık/Koyu (toggle)  
+- **Çoklu platform**: Android, iOS, Web, Windows
+
+---
+
+## 🧭 İçindekiler
+- [Kurulum](#-kurulum)
+- [Çalıştırma](#-çalıştırma)
+- [Web Build / GitHub Pages](#-web-build--github-pages)
+- [Proje Yapısı](#-proje-yapısı)
+- [Mock Veri & Gerçek API](#-mock-veri--gerçek-api)
+- [Ekran Görüntüleri](#-ekran-görüntüleri)
+- [Katkı](#-katkı)
+- [Lisans](#-lisans)
+- [English README](#-english-readme)
+
+---
+
+## 🔧 Kurulum
+Ön koşul: **Flutter (stable)** yüklü olmalı.
 ```bash
-flutter pub get
-flutter run -d chrome   # Web
-# veya
-flutter run
-```
-
-## 🧪 Mock Veri
-`assets/orders.json` içindeki anonim ve zengin sahte veriler yüklenir.  
-Gerçek API için `OrderService.fetchOrders()` metodunu `http.get(...)` ile güncelleyin.
-
-## 🔒 Gizlilik
-Örnek veri **tamamen anonim** tutulmuştur (örn. "Contoso", "Globex", "Fabrikam").
-
-## 📄 Lisans
-MIT
+flutter --version
