@@ -1,0 +1,2128 @@
+[
+  {
+    "id": "1",
+    "orderNo": "SO-2025-0001",
+    "customerName": "Acme Corp - Jordan Brown",
+    "total": 2629.8,
+    "createdAt": "2025-09-02T11:33:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-HME-597",
+        "name": "Akıllı Ampul",
+        "qty": 1,
+        "unitPrice": 129.9
+      },
+      {
+        "sku": "SKU-ACC-713",
+        "name": "USB-C Kablo 1m",
+        "qty": 1,
+        "unitPrice": 2499.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Acme Corp - Jordan Brown",
+      "phone": "+90 543 300 97 13",
+      "addressLine": "65 Barbaros Blv. No:35/ 8",
+      "city": "Ankara",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "2",
+    "orderNo": "SO-2025-0002",
+    "customerName": "Umbrella Co - Casey King",
+    "total": 7759.5,
+    "createdAt": "2025-09-14T01:53:43Z",
+    "status": 2,
+    "items": [
+      {
+        "sku": "SKU-TOY-229",
+        "name": "Yapboz 1000 Parça",
+        "qty": 2,
+        "unitPrice": 129.9
+      },
+      {
+        "sku": "SKU-SPR-862",
+        "name": "Direnç Lastiği",
+        "qty": 2,
+        "unitPrice": 2499.9
+      },
+      {
+        "sku": "SKU-MOB-942",
+        "name": "Telefon Standı",
+        "qty": 1,
+        "unitPrice": 2499.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Umbrella Co - Casey King",
+      "phone": "+90 547 497 46 17",
+      "addressLine": "71 Mevlana Cd. No:48/ 6",
+      "city": "Antalya",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "3",
+    "orderNo": "SO-2025-0003",
+    "customerName": "Wayne Tech - Morgan Brown",
+    "total": 15888.9,
+    "createdAt": "2025-09-11T10:28:43Z",
+    "status": 3,
+    "items": [
+      {
+        "sku": "SKU-KTC-100",
+        "name": "Şef Bıçağı",
+        "qty": 3,
+        "unitPrice": 2499.9
+      },
+      {
+        "sku": "SKU-HME-875",
+        "name": "Akıllı Ampul",
+        "qty": 3,
+        "unitPrice": 129.9
+      },
+      {
+        "sku": "SKU-MOB-804",
+        "name": "Telefon Standı",
+        "qty": 2,
+        "unitPrice": 249.9
+      },
+      {
+        "sku": "SKU-OFI-872",
+        "name": "Masa Lambası",
+        "qty": 3,
+        "unitPrice": 2499.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Wayne Tech - Morgan Brown",
+      "phone": "+90 583 370 22 69",
+      "addressLine": "118 Gazi Blv. No:43/ 6",
+      "city": "Eskişehir",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "4",
+    "orderNo": "SO-2025-0004",
+    "customerName": "Stark Industries - Drew Smith",
+    "total": 8992.8,
+    "createdAt": "2025-09-07T19:00:43Z",
+    "status": 2,
+    "items": [
+      {
+        "sku": "SKU-ELC-523",
+        "name": "Bluetooth Hoparlör",
+        "qty": 2,
+        "unitPrice": 1299.0
+      },
+      {
+        "sku": "SKU-ELC-545",
+        "name": "Bluetooth Hoparlör",
+        "qty": 2,
+        "unitPrice": 399.0
+      },
+      {
+        "sku": "SKU-KTC-613",
+        "name": "Şef Bıçağı",
+        "qty": 3,
+        "unitPrice": 199.0
+      },
+      {
+        "sku": "SKU-TOY-420",
+        "name": "Yapboz 1000 Parça",
+        "qty": 2,
+        "unitPrice": 2499.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Stark Industries - Drew Smith",
+      "phone": "+90 576 556 98 81",
+      "addressLine": "41 Mevlana Cd. No:42/ 8",
+      "city": "Bursa",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "5",
+    "orderNo": "SO-2025-0005",
+    "customerName": "Globex - Robin Johnson",
+    "total": 1299.0,
+    "createdAt": "2025-09-09T20:52:43Z",
+    "status": 2,
+    "items": [
+      {
+        "sku": "SKU-GME-106",
+        "name": "Oyun Mouse",
+        "qty": 1,
+        "unitPrice": 1299.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Globex - Robin Johnson",
+      "phone": "+90 550 193 58 91",
+      "addressLine": "197 Mevlana Cd. No:18/ 3",
+      "city": "İstanbul",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "6",
+    "orderNo": "SO-2025-0006",
+    "customerName": "Initech - Casey Miller",
+    "total": 1157.6,
+    "createdAt": "2025-09-05T18:14:43Z",
+    "status": 3,
+    "items": [
+      {
+        "sku": "SKU-ELC-924",
+        "name": "Bluetooth Hoparlör",
+        "qty": 2,
+        "unitPrice": 129.9
+      },
+      {
+        "sku": "SKU-TOY-065",
+        "name": "Yapboz 1000 Parça",
+        "qty": 2,
+        "unitPrice": 199.0
+      },
+      {
+        "sku": "SKU-ACC-180",
+        "name": "USB-C Kablo 1m",
+        "qty": 2,
+        "unitPrice": 249.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Initech - Casey Miller",
+      "phone": "+90 515 368 71 27",
+      "addressLine": "154 Barbaros Blv. No:25/ 4",
+      "city": "Ankara",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "7",
+    "orderNo": "SO-2025-0007",
+    "customerName": "Acme Corp - Avery Johnson",
+    "total": 2656.8,
+    "createdAt": "2025-08-30T14:41:43Z",
+    "status": 3,
+    "items": [
+      {
+        "sku": "SKU-HME-540",
+        "name": "Akıllı Ampul",
+        "qty": 2,
+        "unitPrice": 129.9
+      },
+      {
+        "sku": "SKU-ACC-336",
+        "name": "USB-C Kablo 1m",
+        "qty": 3,
+        "unitPrice": 799.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Acme Corp - Avery Johnson",
+      "phone": "+90 501 222 91 50",
+      "addressLine": "21 Barbaros Blv. No:31/ 2",
+      "city": "Bursa",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "8",
+    "orderNo": "SO-2025-0008",
+    "customerName": "Initech - Alex Brown",
+    "total": 5646.6,
+    "createdAt": "2025-09-21T00:15:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-MOB-924",
+        "name": "Telefon Standı",
+        "qty": 1,
+        "unitPrice": 249.9
+      },
+      {
+        "sku": "SKU-TOY-970",
+        "name": "Yapboz 1000 Parça",
+        "qty": 1,
+        "unitPrice": 129.9
+      },
+      {
+        "sku": "SKU-ELC-601",
+        "name": "Bluetooth Hoparlör",
+        "qty": 2,
+        "unitPrice": 2499.9
+      },
+      {
+        "sku": "SKU-ACC-160",
+        "name": "USB-C Kablo 1m",
+        "qty": 3,
+        "unitPrice": 89.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Initech - Alex Brown",
+      "phone": "+90 578 888 53 18",
+      "addressLine": "125 Atatürk Cd. No:12/ 10",
+      "city": "İzmir",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "9",
+    "orderNo": "SO-2025-0009",
+    "customerName": "Globex - Alex Clark",
+    "total": 1094.5,
+    "createdAt": "2025-09-17T10:23:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-OFI-887",
+        "name": "Masa Lambası",
+        "qty": 3,
+        "unitPrice": 129.9
+      },
+      {
+        "sku": "SKU-ELC-584",
+        "name": "Bluetooth Hoparlör",
+        "qty": 3,
+        "unitPrice": 89.0
+      },
+      {
+        "sku": "SKU-GME-054",
+        "name": "Oyun Mouse",
+        "qty": 2,
+        "unitPrice": 129.9
+      },
+      {
+        "sku": "SKU-HME-856",
+        "name": "Akıllı Ampul",
+        "qty": 2,
+        "unitPrice": 89.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Globex - Alex Clark",
+      "phone": "+90 593 270 19 18",
+      "addressLine": "147 Atatürk Cd. No:24/ 1",
+      "city": "Antalya",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "10",
+    "orderNo": "SO-2025-0010",
+    "customerName": "Soylent Works - Jamie Baker",
+    "total": 7091.0,
+    "createdAt": "2025-09-09T01:36:43Z",
+    "status": 3,
+    "items": [
+      {
+        "sku": "SKU-SPR-143",
+        "name": "Direnç Lastiği",
+        "qty": 1,
+        "unitPrice": 399.0
+      },
+      {
+        "sku": "SKU-SPR-908",
+        "name": "Direnç Lastiği",
+        "qty": 2,
+        "unitPrice": 799.0
+      },
+      {
+        "sku": "SKU-ELC-154",
+        "name": "Kablosuz Kulaklık",
+        "qty": 3,
+        "unitPrice": 1299.0
+      },
+      {
+        "sku": "SKU-KTC-322",
+        "name": "Şef Bıçağı",
+        "qty": 3,
+        "unitPrice": 399.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Soylent Works - Jamie Baker",
+      "phone": "+90 539 514 58 70",
+      "addressLine": "192 Cumhuriyet Sk. No:27/ 9",
+      "city": "Bursa",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "11",
+    "orderNo": "SO-2025-0011",
+    "customerName": "Globex - Charlie Davis",
+    "total": 478.7,
+    "createdAt": "2025-09-11T20:17:43Z",
+    "status": 3,
+    "items": [
+      {
+        "sku": "SKU-ELC-557",
+        "name": "Bluetooth Hoparlör",
+        "qty": 1,
+        "unitPrice": 89.0
+      },
+      {
+        "sku": "SKU-OFI-372",
+        "name": "Masa Lambası",
+        "qty": 3,
+        "unitPrice": 129.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Globex - Charlie Davis",
+      "phone": "+90 511 782 70 37",
+      "addressLine": "141 Barbaros Blv. No:39/ 6",
+      "city": "Antalya",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "12",
+    "orderNo": "SO-2025-0012",
+    "customerName": "Contoso - Jamie Johnson",
+    "total": 5391.0,
+    "createdAt": "2025-09-13T05:29:43Z",
+    "status": 3,
+    "items": [
+      {
+        "sku": "SKU-TOY-498",
+        "name": "Yapboz 1000 Parça",
+        "qty": 3,
+        "unitPrice": 799.0
+      },
+      {
+        "sku": "SKU-KTC-476",
+        "name": "Şef Bıçağı",
+        "qty": 3,
+        "unitPrice": 799.0
+      },
+      {
+        "sku": "SKU-ACC-343",
+        "name": "USB-C Kablo 1m",
+        "qty": 2,
+        "unitPrice": 199.0
+      },
+      {
+        "sku": "SKU-MOB-138",
+        "name": "Telefon Standı",
+        "qty": 1,
+        "unitPrice": 199.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Contoso - Jamie Johnson",
+      "phone": "+90 586 237 84 96",
+      "addressLine": "125 Atatürk Cd. No:36/ 4",
+      "city": "Konya",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "13",
+    "orderNo": "SO-2025-0013",
+    "customerName": "Stark Industries - Jamie Walker",
+    "total": 2598.0,
+    "createdAt": "2025-08-26T18:34:43Z",
+    "status": 3,
+    "items": [
+      {
+        "sku": "SKU-SPR-203",
+        "name": "Direnç Lastiği",
+        "qty": 2,
+        "unitPrice": 1299.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Stark Industries - Jamie Walker",
+      "phone": "+90 590 368 39 35",
+      "addressLine": "147 Barbaros Blv. No:32/ 2",
+      "city": "Bursa",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "14",
+    "orderNo": "SO-2025-0014",
+    "customerName": "Wayne Tech - Robin Walker",
+    "total": 259.8,
+    "createdAt": "2025-09-20T00:19:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-MOB-177",
+        "name": "Telefon Standı",
+        "qty": 2,
+        "unitPrice": 129.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Wayne Tech - Robin Walker",
+      "phone": "+90 540 956 62 55",
+      "addressLine": "152 Barbaros Blv. No:10/ 10",
+      "city": "Adana",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "15",
+    "orderNo": "SO-2025-0015",
+    "customerName": "Soylent Works - Avery Miller",
+    "total": 3994.0,
+    "createdAt": "2025-09-09T22:56:43Z",
+    "status": 3,
+    "items": [
+      {
+        "sku": "SKU-KTC-912",
+        "name": "Şef Bıçağı",
+        "qty": 2,
+        "unitPrice": 399.0
+      },
+      {
+        "sku": "SKU-ELC-421",
+        "name": "Kablosuz Kulaklık",
+        "qty": 2,
+        "unitPrice": 799.0
+      },
+      {
+        "sku": "SKU-GME-293",
+        "name": "Oyun Mouse",
+        "qty": 2,
+        "unitPrice": 799.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Soylent Works - Avery Miller",
+      "phone": "+90 523 489 25 18",
+      "addressLine": "138 Gazi Blv. No:14/ 8",
+      "city": "Eskişehir",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "16",
+    "orderNo": "SO-2025-0016",
+    "customerName": "Wayne Tech - Avery Wilson",
+    "total": 656.7,
+    "createdAt": "2025-09-16T23:11:43Z",
+    "status": 4,
+    "items": [
+      {
+        "sku": "SKU-HME-380",
+        "name": "Akıllı Ampul",
+        "qty": 3,
+        "unitPrice": 89.0
+      },
+      {
+        "sku": "SKU-GME-691",
+        "name": "Oyun Mouse",
+        "qty": 2,
+        "unitPrice": 129.9
+      },
+      {
+        "sku": "SKU-KTC-903",
+        "name": "Şef Bıçağı",
+        "qty": 1,
+        "unitPrice": 129.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Wayne Tech - Avery Wilson",
+      "phone": "+90 518 162 30 24",
+      "addressLine": "47 Atatürk Cd. No:34/ 7",
+      "city": "Adana",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "17",
+    "orderNo": "SO-2025-0017",
+    "customerName": "Initech - Sam King",
+    "total": 2794.0,
+    "createdAt": "2025-09-18T17:24:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-MOB-694",
+        "name": "Telefon Standı",
+        "qty": 2,
+        "unitPrice": 399.0
+      },
+      {
+        "sku": "SKU-HME-541",
+        "name": "Akıllı Ampul",
+        "qty": 2,
+        "unitPrice": 199.0
+      },
+      {
+        "sku": "SKU-OFI-387",
+        "name": "Masa Lambası",
+        "qty": 2,
+        "unitPrice": 799.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Initech - Sam King",
+      "phone": "+90 546 567 51 16",
+      "addressLine": "48 Atatürk Cd. No:3/ 4",
+      "city": "Gaziantep",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "18",
+    "orderNo": "SO-2025-0018",
+    "customerName": "Fabrikam - Morgan Smith",
+    "total": 3633.8,
+    "createdAt": "2025-08-27T11:56:43Z",
+    "status": 3,
+    "items": [
+      {
+        "sku": "SKU-KTC-432",
+        "name": "Şef Bıçağı",
+        "qty": 2,
+        "unitPrice": 799.0
+      },
+      {
+        "sku": "SKU-SPR-049",
+        "name": "Direnç Lastiği",
+        "qty": 2,
+        "unitPrice": 89.0
+      },
+      {
+        "sku": "SKU-HME-966",
+        "name": "Akıllı Ampul",
+        "qty": 2,
+        "unitPrice": 799.0
+      },
+      {
+        "sku": "SKU-TOY-020",
+        "name": "Yapboz 1000 Parça",
+        "qty": 2,
+        "unitPrice": 129.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Fabrikam - Morgan Smith",
+      "phone": "+90 518 302 14 86",
+      "addressLine": "179 Gazi Blv. No:18/ 3",
+      "city": "Adana",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "19",
+    "orderNo": "SO-2025-0019",
+    "customerName": "Fabrikam - Avery Smith",
+    "total": 2795.0,
+    "createdAt": "2025-08-31T16:04:43Z",
+    "status": 2,
+    "items": [
+      {
+        "sku": "SKU-TOY-851",
+        "name": "Yapboz 1000 Parça",
+        "qty": 3,
+        "unitPrice": 799.0
+      },
+      {
+        "sku": "SKU-KTC-455",
+        "name": "Şef Bıçağı",
+        "qty": 2,
+        "unitPrice": 199.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Fabrikam - Avery Smith",
+      "phone": "+90 585 266 79 55",
+      "addressLine": "51 Cumhuriyet Sk. No:34/ 8",
+      "city": "Kayseri",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "20",
+    "orderNo": "SO-2025-0020",
+    "customerName": "Stark Industries - Sam King",
+    "total": 6556.2,
+    "createdAt": "2025-08-21T19:41:43Z",
+    "status": 3,
+    "items": [
+      {
+        "sku": "SKU-HME-135",
+        "name": "Akıllı Ampul",
+        "qty": 3,
+        "unitPrice": 59.9
+      },
+      {
+        "sku": "SKU-HME-408",
+        "name": "Akıllı Ampul",
+        "qty": 3,
+        "unitPrice": 59.9
+      },
+      {
+        "sku": "SKU-GME-762",
+        "name": "Oyun Mouse",
+        "qty": 2,
+        "unitPrice": 2499.9
+      },
+      {
+        "sku": "SKU-MOB-599",
+        "name": "Telefon Standı",
+        "qty": 3,
+        "unitPrice": 399.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Stark Industries - Sam King",
+      "phone": "+90 532 558 22 58",
+      "addressLine": "95 Barbaros Blv. No:2/ 5",
+      "city": "Eskişehir",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "21",
+    "orderNo": "SO-2025-0021",
+    "customerName": "Wonka Labs - Drew Smith",
+    "total": 7499.7,
+    "createdAt": "2025-09-02T11:12:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-KTC-129",
+        "name": "Şef Bıçağı",
+        "qty": 3,
+        "unitPrice": 2499.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Wonka Labs - Drew Smith",
+      "phone": "+90 542 983 33 39",
+      "addressLine": "135 Cumhuriyet Sk. No:16/ 5",
+      "city": "Gaziantep",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "22",
+    "orderNo": "SO-2025-0022",
+    "customerName": "Acme Corp - Robin Lewis",
+    "total": 2795.0,
+    "createdAt": "2025-08-28T12:37:43Z",
+    "status": 2,
+    "items": [
+      {
+        "sku": "SKU-KTC-117",
+        "name": "Şef Bıçağı",
+        "qty": 3,
+        "unitPrice": 799.0
+      },
+      {
+        "sku": "SKU-ELC-439",
+        "name": "Kablosuz Kulaklık",
+        "qty": 1,
+        "unitPrice": 199.0
+      },
+      {
+        "sku": "SKU-OFI-418",
+        "name": "Masa Lambası",
+        "qty": 1,
+        "unitPrice": 199.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Acme Corp - Robin Lewis",
+      "phone": "+90 591 459 76 80",
+      "addressLine": "141 İnönü Cd. No:26/ 1",
+      "city": "Bursa",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "23",
+    "orderNo": "SO-2025-0023",
+    "customerName": "Stark Industries - Morgan Wilson",
+    "total": 3014.5,
+    "createdAt": "2025-09-13T01:40:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-ACC-453",
+        "name": "USB-C Kablo 1m",
+        "qty": 2,
+        "unitPrice": 89.0
+      },
+      {
+        "sku": "SKU-OFI-694",
+        "name": "Masa Lambası",
+        "qty": 3,
+        "unitPrice": 799.0
+      },
+      {
+        "sku": "SKU-HME-432",
+        "name": "Akıllı Ampul",
+        "qty": 2,
+        "unitPrice": 129.9
+      },
+      {
+        "sku": "SKU-TOY-168",
+        "name": "Yapboz 1000 Parça",
+        "qty": 3,
+        "unitPrice": 59.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Stark Industries - Morgan Wilson",
+      "phone": "+90 521 529 76 12",
+      "addressLine": "11 Barbaros Blv. No:2/ 1",
+      "city": "Konya",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "24",
+    "orderNo": "SO-2025-0024",
+    "customerName": "Acme Corp - Sam Clark",
+    "total": 1285.4,
+    "createdAt": "2025-08-26T12:39:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-SPR-550",
+        "name": "Direnç Lastiği",
+        "qty": 3,
+        "unitPrice": 59.9
+      },
+      {
+        "sku": "SKU-HME-910",
+        "name": "Akıllı Ampul",
+        "qty": 3,
+        "unitPrice": 249.9
+      },
+      {
+        "sku": "SKU-KTC-633",
+        "name": "Şef Bıçağı",
+        "qty": 3,
+        "unitPrice": 89.0
+      },
+      {
+        "sku": "SKU-TOY-422",
+        "name": "Yapboz 1000 Parça",
+        "qty": 1,
+        "unitPrice": 89.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Acme Corp - Sam Clark",
+      "phone": "+90 583 499 70 38",
+      "addressLine": "158 Barbaros Blv. No:22/ 5",
+      "city": "Gaziantep",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "25",
+    "orderNo": "SO-2025-0025",
+    "customerName": "Fabrikam - Morgan Lewis",
+    "total": 2598.0,
+    "createdAt": "2025-09-09T15:52:43Z",
+    "status": 2,
+    "items": [
+      {
+        "sku": "SKU-TOY-264",
+        "name": "Yapboz 1000 Parça",
+        "qty": 2,
+        "unitPrice": 1299.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Fabrikam - Morgan Lewis",
+      "phone": "+90 558 673 87 30",
+      "addressLine": "191 İnönü Cd. No:39/ 1",
+      "city": "Konya",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "26",
+    "orderNo": "SO-2025-0026",
+    "customerName": "Globex - Jamie Miller",
+    "total": 1856.2,
+    "createdAt": "2025-09-01T01:33:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-ACC-168",
+        "name": "USB-C Kablo 1m",
+        "qty": 3,
+        "unitPrice": 199.0
+      },
+      {
+        "sku": "SKU-MOB-960",
+        "name": "Telefon Standı",
+        "qty": 3,
+        "unitPrice": 129.9
+      },
+      {
+        "sku": "SKU-ELC-089",
+        "name": "Kablosuz Kulaklık",
+        "qty": 3,
+        "unitPrice": 249.9
+      },
+      {
+        "sku": "SKU-SPR-136",
+        "name": "Direnç Lastiği",
+        "qty": 2,
+        "unitPrice": 59.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Globex - Jamie Miller",
+      "phone": "+90 516 732 14 85",
+      "addressLine": "88 Mevlana Cd. No:36/ 6",
+      "city": "İzmir",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "27",
+    "orderNo": "SO-2025-0027",
+    "customerName": "Soylent Works - Charlie Brown",
+    "total": 799.0,
+    "createdAt": "2025-09-20T23:05:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-GME-396",
+        "name": "Oyun Mouse",
+        "qty": 1,
+        "unitPrice": 799.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Soylent Works - Charlie Brown",
+      "phone": "+90 554 873 23 65",
+      "addressLine": "47 Cumhuriyet Sk. No:14/ 7",
+      "city": "Antalya",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "28",
+    "orderNo": "SO-2025-0028",
+    "customerName": "Contoso - Jamie Young",
+    "total": 3026.7,
+    "createdAt": "2025-09-05T05:27:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-ELC-083",
+        "name": "Kablosuz Kulaklık",
+        "qty": 3,
+        "unitPrice": 89.0
+      },
+      {
+        "sku": "SKU-ACC-330",
+        "name": "USB-C Kablo 1m",
+        "qty": 1,
+        "unitPrice": 129.9
+      },
+      {
+        "sku": "SKU-GME-002",
+        "name": "Oyun Mouse",
+        "qty": 1,
+        "unitPrice": 2499.9
+      },
+      {
+        "sku": "SKU-MOB-716",
+        "name": "Telefon Standı",
+        "qty": 1,
+        "unitPrice": 129.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Contoso - Jamie Young",
+      "phone": "+90 549 114 71 51",
+      "addressLine": "147 Gazi Blv. No:21/ 3",
+      "city": "Bursa",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "29",
+    "orderNo": "SO-2025-0029",
+    "customerName": "Acme Corp - Sam Wilson",
+    "total": 6495.0,
+    "createdAt": "2025-09-15T02:23:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-ACC-903",
+        "name": "USB-C Kablo 1m",
+        "qty": 2,
+        "unitPrice": 1299.0
+      },
+      {
+        "sku": "SKU-SPR-427",
+        "name": "Direnç Lastiği",
+        "qty": 3,
+        "unitPrice": 1299.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Acme Corp - Sam Wilson",
+      "phone": "+90 535 831 10 35",
+      "addressLine": "13 Cumhuriyet Sk. No:20/ 2",
+      "city": "Eskişehir",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "30",
+    "orderNo": "SO-2025-0030",
+    "customerName": "Soylent Works - Jordan Johnson",
+    "total": 4375.7,
+    "createdAt": "2025-09-07T17:12:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-SPR-207",
+        "name": "Direnç Lastiği",
+        "qty": 3,
+        "unitPrice": 129.9
+      },
+      {
+        "sku": "SKU-ACC-906",
+        "name": "USB-C Kablo 1m",
+        "qty": 3,
+        "unitPrice": 1299.0
+      },
+      {
+        "sku": "SKU-ACC-907",
+        "name": "USB-C Kablo 1m",
+        "qty": 1,
+        "unitPrice": 89.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Soylent Works - Jordan Johnson",
+      "phone": "+90 563 215 28 46",
+      "addressLine": "59 Atatürk Cd. No:12/ 10",
+      "city": "Bursa",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "31",
+    "orderNo": "SO-2025-0031",
+    "customerName": "Soylent Works - Charlie Johnson",
+    "total": 21298.2,
+    "createdAt": "2025-09-14T23:29:43Z",
+    "status": 2,
+    "items": [
+      {
+        "sku": "SKU-ELC-456",
+        "name": "Kablosuz Kulaklık",
+        "qty": 3,
+        "unitPrice": 2499.9
+      },
+      {
+        "sku": "SKU-KTC-935",
+        "name": "Şef Bıçağı",
+        "qty": 3,
+        "unitPrice": 2499.9
+      },
+      {
+        "sku": "SKU-TOY-260",
+        "name": "Yapboz 1000 Parça",
+        "qty": 2,
+        "unitPrice": 2499.9
+      },
+      {
+        "sku": "SKU-GME-036",
+        "name": "Oyun Mouse",
+        "qty": 1,
+        "unitPrice": 1299.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Soylent Works - Charlie Johnson",
+      "phone": "+90 571 780 52 57",
+      "addressLine": "10 Cumhuriyet Sk. No:31/ 6",
+      "city": "Gaziantep",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "32",
+    "orderNo": "SO-2025-0032",
+    "customerName": "Acme Corp - Morgan Davis",
+    "total": 4999.8,
+    "createdAt": "2025-08-28T01:45:43Z",
+    "status": 2,
+    "items": [
+      {
+        "sku": "SKU-ACC-851",
+        "name": "USB-C Kablo 1m",
+        "qty": 2,
+        "unitPrice": 2499.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Acme Corp - Morgan Davis",
+      "phone": "+90 592 666 75 32",
+      "addressLine": "24 Atatürk Cd. No:12/ 8",
+      "city": "Eskişehir",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "33",
+    "orderNo": "SO-2025-0033",
+    "customerName": "Acme Corp - Charlie Baker",
+    "total": 4102.9,
+    "createdAt": "2025-09-01T17:44:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-ELC-947",
+        "name": "Kablosuz Kulaklık",
+        "qty": 2,
+        "unitPrice": 89.0
+      },
+      {
+        "sku": "SKU-ELC-504",
+        "name": "Bluetooth Hoparlör",
+        "qty": 1,
+        "unitPrice": 129.9
+      },
+      {
+        "sku": "SKU-GME-849",
+        "name": "Oyun Mouse",
+        "qty": 3,
+        "unitPrice": 399.0
+      },
+      {
+        "sku": "SKU-SPR-844",
+        "name": "Direnç Lastiği",
+        "qty": 2,
+        "unitPrice": 1299.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Acme Corp - Charlie Baker",
+      "phone": "+90 565 920 19 99",
+      "addressLine": "61 Cumhuriyet Sk. No:50/ 9",
+      "city": "Bursa",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "34",
+    "orderNo": "SO-2025-0034",
+    "customerName": "Contoso - Drew Miller",
+    "total": 3793.0,
+    "createdAt": "2025-08-24T07:23:43Z",
+    "status": 3,
+    "items": [
+      {
+        "sku": "SKU-ELC-276",
+        "name": "Kablosuz Kulaklık",
+        "qty": 3,
+        "unitPrice": 799.0
+      },
+      {
+        "sku": "SKU-ELC-022",
+        "name": "Bluetooth Hoparlör",
+        "qty": 3,
+        "unitPrice": 199.0
+      },
+      {
+        "sku": "SKU-TOY-249",
+        "name": "Yapboz 1000 Parça",
+        "qty": 1,
+        "unitPrice": 799.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Contoso - Drew Miller",
+      "phone": "+90 598 894 16 12",
+      "addressLine": "53 Gazi Blv. No:7/ 8",
+      "city": "Kayseri",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "35",
+    "orderNo": "SO-2025-0035",
+    "customerName": "Soylent Works - Alex Lewis",
+    "total": 749.7,
+    "createdAt": "2025-08-26T16:59:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-OFI-137",
+        "name": "Masa Lambası",
+        "qty": 3,
+        "unitPrice": 249.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Soylent Works - Alex Lewis",
+      "phone": "+90 506 630 49 84",
+      "addressLine": "57 Barbaros Blv. No:25/ 4",
+      "city": "Ankara",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "36",
+    "orderNo": "SO-2025-0036",
+    "customerName": "Globex - Sam Wilson",
+    "total": 7499.7,
+    "createdAt": "2025-08-30T07:06:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-MOB-799",
+        "name": "Telefon Standı",
+        "qty": 3,
+        "unitPrice": 2499.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Globex - Sam Wilson",
+      "phone": "+90 530 788 62 72",
+      "addressLine": "187 Gazi Blv. No:43/ 2",
+      "city": "Antalya",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "37",
+    "orderNo": "SO-2025-0037",
+    "customerName": "Soylent Works - Avery King",
+    "total": 356.0,
+    "createdAt": "2025-09-05T19:29:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-OFI-265",
+        "name": "Masa Lambası",
+        "qty": 1,
+        "unitPrice": 89.0
+      },
+      {
+        "sku": "SKU-HME-197",
+        "name": "Akıllı Ampul",
+        "qty": 3,
+        "unitPrice": 89.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Soylent Works - Avery King",
+      "phone": "+90 565 839 26 33",
+      "addressLine": "193 Atatürk Cd. No:32/ 7",
+      "city": "Adana",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "38",
+    "orderNo": "SO-2025-0038",
+    "customerName": "Umbrella Co - Drew Johnson",
+    "total": 2664.0,
+    "createdAt": "2025-09-16T23:41:43Z",
+    "status": 3,
+    "items": [
+      {
+        "sku": "SKU-ACC-981",
+        "name": "USB-C Kablo 1m",
+        "qty": 3,
+        "unitPrice": 799.0
+      },
+      {
+        "sku": "SKU-ELC-543",
+        "name": "Kablosuz Kulaklık",
+        "qty": 3,
+        "unitPrice": 89.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Umbrella Co - Drew Johnson",
+      "phone": "+90 582 486 27 66",
+      "addressLine": "96 Atatürk Cd. No:4/ 5",
+      "city": "Bursa",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "39",
+    "orderNo": "SO-2025-0039",
+    "customerName": "Initech - Casey Wilson",
+    "total": 927.9,
+    "createdAt": "2025-09-08T13:34:43Z",
+    "status": 2,
+    "items": [
+      {
+        "sku": "SKU-ACC-663",
+        "name": "USB-C Kablo 1m",
+        "qty": 2,
+        "unitPrice": 399.0
+      },
+      {
+        "sku": "SKU-TOY-844",
+        "name": "Yapboz 1000 Parça",
+        "qty": 1,
+        "unitPrice": 129.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Initech - Casey Wilson",
+      "phone": "+90 557 540 23 17",
+      "addressLine": "51 Gazi Blv. No:19/ 10",
+      "city": "Bursa",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "40",
+    "orderNo": "SO-2025-0040",
+    "customerName": "Initech - Riley Miller",
+    "total": 11956.4,
+    "createdAt": "2025-09-10T06:06:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-TOY-076",
+        "name": "Yapboz 1000 Parça",
+        "qty": 3,
+        "unitPrice": 2499.9
+      },
+      {
+        "sku": "SKU-KTC-851",
+        "name": "Şef Bıçağı",
+        "qty": 3,
+        "unitPrice": 1299.0
+      },
+      {
+        "sku": "SKU-KTC-795",
+        "name": "Şef Bıçağı",
+        "qty": 2,
+        "unitPrice": 249.9
+      },
+      {
+        "sku": "SKU-MOB-484",
+        "name": "Telefon Standı",
+        "qty": 1,
+        "unitPrice": 59.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Initech - Riley Miller",
+      "phone": "+90 553 175 86 11",
+      "addressLine": "52 İnönü Cd. No:28/ 7",
+      "city": "Adana",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "41",
+    "orderNo": "SO-2025-0041",
+    "customerName": "Soylent Works - Taylor Davis",
+    "total": 6371.7,
+    "createdAt": "2025-09-04T20:09:43Z",
+    "status": 3,
+    "items": [
+      {
+        "sku": "SKU-ACC-028",
+        "name": "USB-C Kablo 1m",
+        "qty": 2,
+        "unitPrice": 1299.0
+      },
+      {
+        "sku": "SKU-GME-907",
+        "name": "Oyun Mouse",
+        "qty": 3,
+        "unitPrice": 799.0
+      },
+      {
+        "sku": "SKU-HME-650",
+        "name": "Akıllı Ampul",
+        "qty": 3,
+        "unitPrice": 399.0
+      },
+      {
+        "sku": "SKU-ELC-654",
+        "name": "Kablosuz Kulaklık",
+        "qty": 3,
+        "unitPrice": 59.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Soylent Works - Taylor Davis",
+      "phone": "+90 552 688 61 59",
+      "addressLine": "146 Cumhuriyet Sk. No:32/ 4",
+      "city": "Gaziantep",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "42",
+    "orderNo": "SO-2025-0042",
+    "customerName": "Wonka Labs - Jordan Wilson",
+    "total": 2847.5,
+    "createdAt": "2025-09-15T17:35:43Z",
+    "status": 2,
+    "items": [
+      {
+        "sku": "SKU-KTC-760",
+        "name": "Şef Bıçağı",
+        "qty": 3,
+        "unitPrice": 249.9
+      },
+      {
+        "sku": "SKU-ACC-404",
+        "name": "USB-C Kablo 1m",
+        "qty": 2,
+        "unitPrice": 799.0
+      },
+      {
+        "sku": "SKU-GME-705",
+        "name": "Oyun Mouse",
+        "qty": 2,
+        "unitPrice": 249.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Wonka Labs - Jordan Wilson",
+      "phone": "+90 593 772 98 98",
+      "addressLine": "106 Gazi Blv. No:6/ 7",
+      "city": "İzmir",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "43",
+    "orderNo": "SO-2025-0043",
+    "customerName": "Contoso - Jamie Davis",
+    "total": 7454.6,
+    "createdAt": "2025-09-21T14:55:43Z",
+    "status": 3,
+    "items": [
+      {
+        "sku": "SKU-SPR-311",
+        "name": "Direnç Lastiği",
+        "qty": 2,
+        "unitPrice": 799.0
+      },
+      {
+        "sku": "SKU-ELC-352",
+        "name": "Kablosuz Kulaklık",
+        "qty": 2,
+        "unitPrice": 2499.9
+      },
+      {
+        "sku": "SKU-TOY-594",
+        "name": "Yapboz 1000 Parça",
+        "qty": 3,
+        "unitPrice": 199.0
+      },
+      {
+        "sku": "SKU-SPR-954",
+        "name": "Direnç Lastiği",
+        "qty": 2,
+        "unitPrice": 129.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Contoso - Jamie Davis",
+      "phone": "+90 534 804 84 61",
+      "addressLine": "147 Atatürk Cd. No:11/ 5",
+      "city": "Antalya",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "44",
+    "orderNo": "SO-2025-0044",
+    "customerName": "Stark Industries - Morgan Smith",
+    "total": 1598.0,
+    "createdAt": "2025-08-28T05:58:43Z",
+    "status": 4,
+    "items": [
+      {
+        "sku": "SKU-OFI-109",
+        "name": "Masa Lambası",
+        "qty": 2,
+        "unitPrice": 799.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Stark Industries - Morgan Smith",
+      "phone": "+90 534 173 67 48",
+      "addressLine": "193 Atatürk Cd. No:5/ 3",
+      "city": "Ankara",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "45",
+    "orderNo": "SO-2025-0045",
+    "customerName": "Wayne Tech - Drew Clark",
+    "total": 1185.7,
+    "createdAt": "2025-09-15T11:41:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-OFI-025",
+        "name": "Masa Lambası",
+        "qty": 3,
+        "unitPrice": 129.9
+      },
+      {
+        "sku": "SKU-TOY-234",
+        "name": "Yapboz 1000 Parça",
+        "qty": 1,
+        "unitPrice": 199.0
+      },
+      {
+        "sku": "SKU-ELC-734",
+        "name": "Kablosuz Kulaklık",
+        "qty": 3,
+        "unitPrice": 199.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Wayne Tech - Drew Clark",
+      "phone": "+90 557 786 60 91",
+      "addressLine": "75 Barbaros Blv. No:6/ 9",
+      "city": "İstanbul",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "46",
+    "orderNo": "SO-2025-0046",
+    "customerName": "Initech - Alex Davis",
+    "total": 399.0,
+    "createdAt": "2025-08-28T18:27:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-ELC-048",
+        "name": "Bluetooth Hoparlör",
+        "qty": 1,
+        "unitPrice": 399.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Initech - Alex Davis",
+      "phone": "+90 504 304 33 64",
+      "addressLine": "161 Cumhuriyet Sk. No:48/ 10",
+      "city": "İzmir",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "47",
+    "orderNo": "SO-2025-0047",
+    "customerName": "Contoso - Jordan Baker",
+    "total": 3459.0,
+    "createdAt": "2025-09-17T17:17:43Z",
+    "status": 3,
+    "items": [
+      {
+        "sku": "SKU-MOB-218",
+        "name": "Telefon Standı",
+        "qty": 3,
+        "unitPrice": 399.0
+      },
+      {
+        "sku": "SKU-KTC-460",
+        "name": "Şef Bıçağı",
+        "qty": 2,
+        "unitPrice": 399.0
+      },
+      {
+        "sku": "SKU-ELC-432",
+        "name": "Bluetooth Hoparlör",
+        "qty": 3,
+        "unitPrice": 399.0
+      },
+      {
+        "sku": "SKU-ELC-980",
+        "name": "Bluetooth Hoparlör",
+        "qty": 3,
+        "unitPrice": 89.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Contoso - Jordan Baker",
+      "phone": "+90 514 319 76 61",
+      "addressLine": "77 Mevlana Cd. No:43/ 2",
+      "city": "Antalya",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "48",
+    "orderNo": "SO-2025-0048",
+    "customerName": "Umbrella Co - Riley Walker",
+    "total": 1896.0,
+    "createdAt": "2025-08-30T20:10:43Z",
+    "status": 3,
+    "items": [
+      {
+        "sku": "SKU-ELC-349",
+        "name": "Bluetooth Hoparlör",
+        "qty": 1,
+        "unitPrice": 1299.0
+      },
+      {
+        "sku": "SKU-TOY-243",
+        "name": "Yapboz 1000 Parça",
+        "qty": 3,
+        "unitPrice": 199.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Umbrella Co - Riley Walker",
+      "phone": "+90 572 816 15 50",
+      "addressLine": "138 Barbaros Blv. No:31/ 3",
+      "city": "Gaziantep",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "49",
+    "orderNo": "SO-2025-0049",
+    "customerName": "Wayne Tech - Avery Wilson",
+    "total": 814.7,
+    "createdAt": "2025-08-31T01:30:43Z",
+    "status": 3,
+    "items": [
+      {
+        "sku": "SKU-SPR-647",
+        "name": "Direnç Lastiği",
+        "qty": 3,
+        "unitPrice": 89.0
+      },
+      {
+        "sku": "SKU-HME-026",
+        "name": "Akıllı Ampul",
+        "qty": 2,
+        "unitPrice": 89.0
+      },
+      {
+        "sku": "SKU-GME-825",
+        "name": "Oyun Mouse",
+        "qty": 1,
+        "unitPrice": 249.9
+      },
+      {
+        "sku": "SKU-GME-322",
+        "name": "Oyun Mouse",
+        "qty": 2,
+        "unitPrice": 59.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Wayne Tech - Avery Wilson",
+      "phone": "+90 504 760 34 63",
+      "addressLine": "200 Gazi Blv. No:12/ 3",
+      "city": "Konya",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "50",
+    "orderNo": "SO-2025-0050",
+    "customerName": "Globex - Robin Davis",
+    "total": 2126.9,
+    "createdAt": "2025-08-30T12:43:43Z",
+    "status": 2,
+    "items": [
+      {
+        "sku": "SKU-TOY-003",
+        "name": "Yapboz 1000 Parça",
+        "qty": 1,
+        "unitPrice": 399.0
+      },
+      {
+        "sku": "SKU-ELC-635",
+        "name": "Bluetooth Hoparlör",
+        "qty": 1,
+        "unitPrice": 129.9
+      },
+      {
+        "sku": "SKU-ELC-843",
+        "name": "Kablosuz Kulaklık",
+        "qty": 2,
+        "unitPrice": 799.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Globex - Robin Davis",
+      "phone": "+90 590 650 26 43",
+      "addressLine": "151 Mevlana Cd. No:32/ 2",
+      "city": "Kayseri",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "51",
+    "orderNo": "SO-2025-0051",
+    "customerName": "Soylent Works - Charlie Smith",
+    "total": 8509.2,
+    "createdAt": "2025-09-21T15:17:43Z",
+    "status": 2,
+    "items": [
+      {
+        "sku": "SKU-MOB-757",
+        "name": "Telefon Standı",
+        "qty": 3,
+        "unitPrice": 249.9
+      },
+      {
+        "sku": "SKU-ACC-454",
+        "name": "USB-C Kablo 1m",
+        "qty": 3,
+        "unitPrice": 2499.9
+      },
+      {
+        "sku": "SKU-MOB-358",
+        "name": "Telefon Standı",
+        "qty": 2,
+        "unitPrice": 129.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Soylent Works - Charlie Smith",
+      "phone": "+90 592 425 89 85",
+      "addressLine": "44 Atatürk Cd. No:36/ 6",
+      "city": "Antalya",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "52",
+    "orderNo": "SO-2025-0052",
+    "customerName": "Soylent Works - Casey Wilson",
+    "total": 9178.3,
+    "createdAt": "2025-09-09T23:13:43Z",
+    "status": 2,
+    "items": [
+      {
+        "sku": "SKU-ELC-526",
+        "name": "Kablosuz Kulaklık",
+        "qty": 2,
+        "unitPrice": 59.9
+      },
+      {
+        "sku": "SKU-ELC-911",
+        "name": "Bluetooth Hoparlör",
+        "qty": 2,
+        "unitPrice": 129.9
+      },
+      {
+        "sku": "SKU-ELC-342",
+        "name": "Bluetooth Hoparlör",
+        "qty": 3,
+        "unitPrice": 2499.9
+      },
+      {
+        "sku": "SKU-GME-867",
+        "name": "Oyun Mouse",
+        "qty": 1,
+        "unitPrice": 1299.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Soylent Works - Casey Wilson",
+      "phone": "+90 582 248 11 37",
+      "addressLine": "178 Atatürk Cd. No:37/ 6",
+      "city": "Bursa",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "53",
+    "orderNo": "SO-2025-0053",
+    "customerName": "Soylent Works - Robin Baker",
+    "total": 8193.0,
+    "createdAt": "2025-09-12T22:26:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-MOB-512",
+        "name": "Telefon Standı",
+        "qty": 1,
+        "unitPrice": 399.0
+      },
+      {
+        "sku": "SKU-ACC-774",
+        "name": "USB-C Kablo 1m",
+        "qty": 3,
+        "unitPrice": 1299.0
+      },
+      {
+        "sku": "SKU-OFI-047",
+        "name": "Masa Lambası",
+        "qty": 3,
+        "unitPrice": 1299.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Soylent Works - Robin Baker",
+      "phone": "+90 567 616 92 94",
+      "addressLine": "35 Cumhuriyet Sk. No:10/ 4",
+      "city": "Adana",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "54",
+    "orderNo": "SO-2025-0054",
+    "customerName": "Umbrella Co - Avery Young",
+    "total": 2994.0,
+    "createdAt": "2025-09-08T02:10:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-SPR-113",
+        "name": "Direnç Lastiği",
+        "qty": 3,
+        "unitPrice": 199.0
+      },
+      {
+        "sku": "SKU-MOB-139",
+        "name": "Telefon Standı",
+        "qty": 3,
+        "unitPrice": 799.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Umbrella Co - Avery Young",
+      "phone": "+90 532 241 44 89",
+      "addressLine": "89 Atatürk Cd. No:15/ 6",
+      "city": "Eskişehir",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "55",
+    "orderNo": "SO-2025-0055",
+    "customerName": "Contoso - Drew King",
+    "total": 796.0,
+    "createdAt": "2025-09-16T16:19:43Z",
+    "status": 1,
+    "items": [
+      {
+        "sku": "SKU-MOB-166",
+        "name": "Telefon Standı",
+        "qty": 3,
+        "unitPrice": 199.0
+      },
+      {
+        "sku": "SKU-ACC-268",
+        "name": "USB-C Kablo 1m",
+        "qty": 1,
+        "unitPrice": 199.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Contoso - Drew King",
+      "phone": "+90 554 537 98 14",
+      "addressLine": "154 Barbaros Blv. No:12/ 8",
+      "city": "Bursa",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "56",
+    "orderNo": "SO-2025-0056",
+    "customerName": "Fabrikam - Riley Young",
+    "total": 3107.5,
+    "createdAt": "2025-08-27T16:26:43Z",
+    "status": 2,
+    "items": [
+      {
+        "sku": "SKU-ACC-638",
+        "name": "USB-C Kablo 1m",
+        "qty": 2,
+        "unitPrice": 1299.0
+      },
+      {
+        "sku": "SKU-MOB-965",
+        "name": "Telefon Standı",
+        "qty": 3,
+        "unitPrice": 129.9
+      },
+      {
+        "sku": "SKU-ACC-565",
+        "name": "USB-C Kablo 1m",
+        "qty": 2,
+        "unitPrice": 59.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Fabrikam - Riley Young",
+      "phone": "+90 509 295 70 41",
+      "addressLine": "78 İnönü Cd. No:20/ 9",
+      "city": "Bursa",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "57",
+    "orderNo": "SO-2025-0057",
+    "customerName": "Contoso - Taylor Miller",
+    "total": 179.7,
+    "createdAt": "2025-09-20T13:56:43Z",
+    "status": 3,
+    "items": [
+      {
+        "sku": "SKU-ELC-261",
+        "name": "Kablosuz Kulaklık",
+        "qty": 3,
+        "unitPrice": 59.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Contoso - Taylor Miller",
+      "phone": "+90 527 595 65 72",
+      "addressLine": "49 Mevlana Cd. No:3/ 1",
+      "city": "Ankara",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "58",
+    "orderNo": "SO-2025-0058",
+    "customerName": "Soylent Works - Jamie Smith",
+    "total": 799.3,
+    "createdAt": "2025-09-12T11:41:43Z",
+    "status": 3,
+    "items": [
+      {
+        "sku": "SKU-TOY-828",
+        "name": "Yapboz 1000 Parça",
+        "qty": 3,
+        "unitPrice": 59.9
+      },
+      {
+        "sku": "SKU-OFI-693",
+        "name": "Masa Lambası",
+        "qty": 2,
+        "unitPrice": 249.9
+      },
+      {
+        "sku": "SKU-MOB-944",
+        "name": "Telefon Standı",
+        "qty": 2,
+        "unitPrice": 59.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Soylent Works - Jamie Smith",
+      "phone": "+90 582 610 47 26",
+      "addressLine": "125 Mevlana Cd. No:18/ 2",
+      "city": "İzmir",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "59",
+    "orderNo": "SO-2025-0059",
+    "customerName": "Globex - Jamie Johnson",
+    "total": 607.8,
+    "createdAt": "2025-08-29T11:38:43Z",
+    "status": 2,
+    "items": [
+      {
+        "sku": "SKU-HME-290",
+        "name": "Akıllı Ampul",
+        "qty": 2,
+        "unitPrice": 59.9
+      },
+      {
+        "sku": "SKU-ELC-575",
+        "name": "Kablosuz Kulaklık",
+        "qty": 1,
+        "unitPrice": 399.0
+      },
+      {
+        "sku": "SKU-GME-957",
+        "name": "Oyun Mouse",
+        "qty": 1,
+        "unitPrice": 89.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Globex - Jamie Johnson",
+      "phone": "+90 528 528 63 69",
+      "addressLine": "99 Atatürk Cd. No:7/ 7",
+      "city": "Eskişehir",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "60",
+    "orderNo": "SO-2025-0060",
+    "customerName": "Wonka Labs - Sam Brown",
+    "total": 576.0,
+    "createdAt": "2025-09-14T22:57:43Z",
+    "status": 5,
+    "items": [
+      {
+        "sku": "SKU-OFI-667",
+        "name": "Masa Lambası",
+        "qty": 2,
+        "unitPrice": 89.0
+      },
+      {
+        "sku": "SKU-TOY-188",
+        "name": "Yapboz 1000 Parça",
+        "qty": 2,
+        "unitPrice": 199.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Wonka Labs - Sam Brown",
+      "phone": "+90 534 394 88 43",
+      "addressLine": "20 Mevlana Cd. No:26/ 2",
+      "city": "İstanbul",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "61",
+    "orderNo": "SO-2025-0061",
+    "customerName": "Acme Corp - Sam Baker",
+    "total": 3897.0,
+    "createdAt": "2025-09-15T05:31:43Z",
+    "status": 2,
+    "items": [
+      {
+        "sku": "SKU-TOY-067",
+        "name": "Yapboz 1000 Parça",
+        "qty": 3,
+        "unitPrice": 1299.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Acme Corp - Sam Baker",
+      "phone": "+90 554 859 25 62",
+      "addressLine": "30 Barbaros Blv. No:24/ 9",
+      "city": "Konya",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "62",
+    "orderNo": "SO-2025-0062",
+    "customerName": "Stark Industries - Sam Lewis",
+    "total": 3237.6,
+    "createdAt": "2025-08-22T03:27:43Z",
+    "status": 3,
+    "items": [
+      {
+        "sku": "SKU-OFI-762",
+        "name": "Masa Lambası",
+        "qty": 1,
+        "unitPrice": 249.9
+      },
+      {
+        "sku": "SKU-HME-657",
+        "name": "Akıllı Ampul",
+        "qty": 3,
+        "unitPrice": 129.9
+      },
+      {
+        "sku": "SKU-OFI-406",
+        "name": "Masa Lambası",
+        "qty": 2,
+        "unitPrice": 1299.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Stark Industries - Sam Lewis",
+      "phone": "+90 529 289 38 84",
+      "addressLine": "37 Barbaros Blv. No:7/ 10",
+      "city": "Bursa",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "63",
+    "orderNo": "SO-2025-0063",
+    "customerName": "Wonka Labs - Jordan Young",
+    "total": 8338.4,
+    "createdAt": "2025-09-06T21:55:43Z",
+    "status": 2,
+    "items": [
+      {
+        "sku": "SKU-KTC-918",
+        "name": "Şef Bıçağı",
+        "qty": 3,
+        "unitPrice": 249.9
+      },
+      {
+        "sku": "SKU-GME-996",
+        "name": "Oyun Mouse",
+        "qty": 3,
+        "unitPrice": 2499.9
+      },
+      {
+        "sku": "SKU-OFI-575",
+        "name": "Masa Lambası",
+        "qty": 1,
+        "unitPrice": 89.0
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Wonka Labs - Jordan Young",
+      "phone": "+90 511 958 80 25",
+      "addressLine": "57 Gazi Blv. No:1/ 8",
+      "city": "Bursa",
+      "country": "Türkiye"
+    }
+  },
+  {
+    "id": "64",
+    "orderNo": "SO-2025-0064",
+    "customerName": "Wayne Tech - Casey Baker",
+    "total": 986.7,
+    "createdAt": "2025-09-10T16:20:43Z",
+    "status": 3,
+    "items": [
+      {
+        "sku": "SKU-ELC-243",
+        "name": "Bluetooth Hoparlör",
+        "qty": 3,
+        "unitPrice": 199.0
+      },
+      {
+        "sku": "SKU-GME-469",
+        "name": "Oyun Mouse",
+        "qty": 3,
+        "unitPrice": 129.9
+      }
+    ],
+    "shippingAddress": {
+      "fullName": "Wayne Tech - Casey Baker",
+      "phone": "+90 526 695 96 42",
+      "addressLine": "179 Gazi Blv. No:25/ 1",
+      "city": "İstanbul",
+      "country": "Türkiye"
+    }
+  }
+]
